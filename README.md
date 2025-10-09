@@ -68,10 +68,10 @@ Seguir carreira na **área de dados**, com foco em **análise, engenharia e ciê
 ### 📫 Contato  
 
 <p align="center">
-  <a href="mailto:seuemail@email.com" target="_blank">
+  <a href="mailto:brunoworkn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-oliveira-56aba5181/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/brunoknu" target="_blank">
