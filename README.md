@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Bruno Oliveira</h1>
 
-<!--
-**brunoknu/brunoknu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Formado em <strong>Ciência da Computação</strong>  
+📊 Foco em <strong>Análise e Ciência de Dados</strong>  
+💡 Apaixonado por tecnologia, dados e soluções inteligentes
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Sobre mim  
+
+Sou profissional da área de **Tecnologia da Informação**, formado em **Ciência da Computação**, com interesse em **análise, engenharia e ciência de dados**.  
+Atualmente, aprofundo meus conhecimentos em **Python** e **SQL**, aplicando-os em projetos de **tratamento, modelagem e visualização de dados**.  
+Busco oportunidades para atuar como **Analista de Dados** ou **Cientista de Dados Júnior**, transformando dados em valor e insights estratégicos.
+
+---
+
+### 🧠 Tecnologias e Ferramentas  
+
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📈 O que estou aprendendo atualmente  
+
+- Criação e manipulação de **bancos de dados relacionais** (PostgreSQL, MySQL)  
+- **Análise e automação de dados** com Python (Pandas, NumPy, Matplotlib)  
+- **Visualização interativa** com Power BI  
+
+---
+
+### 🚀 Objetivo Profissional  
+
+Seguir carreira na área de **dados**, com foco em **análise, engenharia e ciência de dados**, aplicando raciocínio lógico e visão analítica para apoiar decisões baseadas em evidências.  
+
+---
+
+### 📫 Contato  
+
+<p align="center">
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/BrunoOliveira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><em>“Dados bem utilizados são a base de decisões inteligentes.”</em></p>
