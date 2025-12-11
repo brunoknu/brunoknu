@@ -60,16 +60,6 @@ Tenho interesse específico em engenharia de dados, automação de fluxos, model
 
 ---
 
-## Estatísticas Técnicas do GitHub
-
-<div align="center">
-
-<!-- Stats -->
-<img height="160em" src="https://raw.githubusercontent.com/brunoknu/github-stats/master/generated/overview.svg" />
-
-<!-- Languages -->
-<img height="160em" src="https://raw.githubusercontent.com/brunoknu/github-stats/master/generated/languages.svg" />
-
 </div>
 
 
