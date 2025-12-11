@@ -64,12 +64,14 @@ Tenho interesse específico em engenharia de dados, automação de fluxos, model
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunoknu&show_icons=true&theme=default&hide_title=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoknu&layout=compact&theme=default&hide_title=true" />
+<!-- Stats -->
+<img height="160em" src="https://raw.githubusercontent.com/brunoknu/github-stats/master/generated/overview.svg" />
+
+<!-- Languages -->
+<img height="160em" src="https://raw.githubusercontent.com/brunoknu/github-stats/master/generated/languages.svg" />
 
 </div>
 
----
 
 ## Contato Profissional
 
