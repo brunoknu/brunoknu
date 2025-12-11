@@ -65,5 +65,5 @@ Tenho interesse específico em engenharia de dados, automação de fluxos, model
 
 ## Contato Profissional
 
-LinkedIn: [https://www.linkedin.com/in/bruno-oliveira-56aba5181/]  
-E-mail: [brunoworkn@gmail.com]  
+LinkedIn: https://www.linkedin.com/in/bruno-oliveira-56aba5181/
+E-mail: brunoworkn@gmail.com
