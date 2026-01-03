@@ -1,26 +1,26 @@
 <h1 align="center">Bruno Matheus</h1>
 <h3 align="center">
-Ciência da Computação | Desenvolvimento Full Stack |
+Ciência da Computação | Desenvolvedor Full Stack
 </h3>
 
 <p align="center">
-Profissional com formação em Ciência da Computação, atuando no desenvolvimento de soluções completas
-que integram back-end, front-end e dados. Experiência no uso de tecnologias modernas para construção
-de aplicações, automação de processos, tratamento de dados e desenvolvimento de sistemas organizados,
-escaláveis e orientados a boas práticas.
+Desenvolvedor Full Stack com formação em Ciência da Computação, atuando na construção de aplicações
+web completas, envolvendo back-end, front-end, APIs e persistência de dados. Experiência no
+desenvolvimento de sistemas organizados, escaláveis e orientados a boas práticas de software.
 </p>
 
 ---
 
 ## Perfil Profissional
 
-Atuo no desenvolvimento de aplicações e soluções técnicas envolvendo desde a camada de dados até a
-interface do usuário. Possuo experiência prática em back-end com Python e JavaScript, desenvolvimento
-de APIs, automação de rotinas, integração com bancos de dados relacionais e construção de interfaces
-web funcionais.
+Atuo no desenvolvimento de aplicações Full Stack, participando desde a implementação do back-end
+até a construção da interface do usuário. Possuo experiência prática com Python, JavaScript e
+TypeScript, desenvolvimento de APIs, integração entre sistemas e utilização de bancos de dados
+relacionais.
 
-Minha atuação é orientada à organização de código, versionamento, documentação e boas práticas, com forte base em dados e interesse contínuo em arquitetura de sistemas,
-desenvolvimento web.
+Minha atuação é orientada à escrita de código limpo, organização de projetos, versionamento,
+documentação e aplicação de boas práticas de desenvolvimento, com interesse contínuo em arquitetura
+de software e tecnologias web modernas.
 
 ---
 
@@ -37,10 +37,10 @@ desenvolvimento web.
 ---
 
 ### Desenvolvimento Back-end
-- Desenvolvimento de APIs e serviços com **Python**
+- Desenvolvimento de APIs e serviços utilizando **Python** e **JavaScript**
 - Uso de **Flask** e **FastAPI**
 - Estruturação de regras de negócio
-- Integração com bancos de dados
+- Integração com bancos de dados relacionais
 - Automação de processos e rotinas
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -50,7 +50,7 @@ desenvolvimento web.
 ### Desenvolvimento Front-end
 - HTML5 e CSS3
 - **React**
-- JavaScript aplicado à lógica de interface
+- JavaScript e TypeScript aplicados à lógica de interface
 - Consumo de APIs e integração com back-end
 - Criação de interfaces funcionais e responsivas
 
@@ -61,26 +61,7 @@ desenvolvimento web.
 
 - Modelagem relacional
 - Escrita e otimização de consultas SQL
-- Organização, integridade e persistência de dados
-
----
-
-### Processamento e Análise de Dados
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-- Tratamento, limpeza e transformação de dados
-- Análise exploratória
-- Estruturação de dados para aplicações e indicadores
-
----
-
-### Visualização e Indicadores
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-- Dashboards
-- KPIs e métricas de suporte à decisão
+- Persistência e organização dos dados da aplicação
 
 ---
 
@@ -98,23 +79,21 @@ desenvolvimento web.
 
 ## Áreas de Atuação
 
-- Desenvolvimento Back-end
 - Desenvolvimento Full Stack
-- Análise de Dados
-- Construção de APIs e serviços
+- Desenvolvimento Back-end
+- Construção de APIs
 - Integração entre sistemas
-- Modelagem e persistência de dados
+- Desenvolvimento de aplicações web
+- Arquitetura e organização de software
 
 ---
 
 ## Projetos e Estudos Atuais
 
-- Desenvolvimento de aplicações web integrando front-end, back-end e banco de dados  
+- Desenvolvimento de aplicações web Full Stack  
 - Criação de APIs utilizando Flask, FastAPI e Node.js  
-- Automação de processos com Python  
-- Análises e consultas SQL aplicadas a aplicações e dados  
-- Estudos contínuos em TypeScript, arquitetura de software  
-- Desenvolvimento de dashboards e indicadores gerenciais  
+- Integração entre front-end, back-end e banco de dados  
+- Estudos contínuos em TypeScript, React e arquitetura de software  
 
 ---
 
@@ -122,4 +101,3 @@ desenvolvimento web.
 
 LinkedIn: https://www.linkedin.com/in/bruno-oliveira-56aba5181/  
 E-mail: brunoworkn@gmail.com
-
