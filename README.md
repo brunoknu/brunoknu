@@ -113,7 +113,7 @@ desenvolvimento web.
 - Criação de APIs utilizando Flask, FastAPI e Node.js  
 - Automação de processos com Python  
 - Análises e consultas SQL aplicadas a aplicações e dados  
-- Estudos contínuos em TypeScript, arquitetura de software e engenharia de dados  
+- Estudos contínuos em TypeScript, arquitetura de software  
 - Desenvolvimento de dashboards e indicadores gerenciais  
 
 ---
