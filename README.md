@@ -1,6 +1,6 @@
 <h1 align="center">Bruno Matheus</h1>
 <h3 align="center">
-Ciência da Computação | Desenvolvimento Full Stack | Back-end | Engenharia e Análise de Dados
+Ciência da Computação | Desenvolvimento Full Stack |
 </h3>
 
 <p align="center">
@@ -19,9 +19,8 @@ interface do usuário. Possuo experiência prática em back-end com Python e Jav
 de APIs, automação de rotinas, integração com bancos de dados relacionais e construção de interfaces
 web funcionais.
 
-Minha atuação é orientada à organização de código, versionamento, documentação e boas práticas de
-engenharia de software, com forte base em dados e interesse contínuo em arquitetura de sistemas,
-desenvolvimento web e engenharia de dados.
+Minha atuação é orientada à organização de código, versionamento, documentação e boas práticas, com forte base em dados e interesse contínuo em arquitetura de sistemas,
+desenvolvimento web.
 
 ---
 
@@ -101,10 +100,9 @@ desenvolvimento web e engenharia de dados.
 
 - Desenvolvimento Back-end
 - Desenvolvimento Full Stack
-- Engenharia e Análise de Dados
+- Análise de Dados
 - Construção de APIs e serviços
 - Integração entre sistemas
-- Automação de processos
 - Modelagem e persistência de dados
 
 ---
