@@ -1,58 +1,58 @@
-<h1 align="center">Bruno Matheus</h1>
-<h3 align="center">
-Ciência da Computação | Desenvolvedor Full Stack (.NET)
-</h3>
+# Hi, I'm Matheus!
 
-<p align="center">
-Desenvolvedor Full Stack com formação em Ciência da Computação, atuando no desenvolvimento de
-aplicações completas com foco em <strong>C# e .NET</strong>, integrando back-end, front-end,
-APIs e persistência de dados. Orientado a boas práticas, organização de código e arquitetura
-de software.
-</p>
+### Computer Scientist | Full Stack Developer (.NET & React)
+
+Graduado em Ciência da Computação, focado em construir soluções escaláveis e performáticas. Especialista no ecossistema **.NET** para o back-end e **React** para o front-end, unindo a robustez da arquitetura de software com interfaces modernas.
 
 ---
 
-## Perfil Profissional
+###  Technical Skills
 
-Sou formado em Ciência da Computação e atuo como desenvolvedor Full Stack, com foco principal
-no ecossistema <strong>.NET</strong>. Participo de todo o ciclo de desenvolvimento de aplicações,
-desde a construção do back-end e APIs até a implementação do front-end e integração com banco
-de dados.
-
-Tenho interesse contínuo em arquitetura de software, código limpo, separação de
-responsabilidades, versionamento e documentação, buscando evolução técnica para me tornar
-especialista em <strong>.NET</strong>.
-
----
-
-## Competências Técnicas
-
-### Linguagens
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+**Languages & Core Stack**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> Stack principal: C# / .NET + TypeScript
+**Back-End Development**
+* **Frameworks:** ASP.NET Core & Web APIs.
+* **Architecture:** Camadas (Controllers, Services, Repositories), Clean Code e Design Patterns.
+* **Database:** Modelagem, SQL Server e otimização de consultas.
+
+**Front-End Development**
+* **Library:** React.js (Hooks, Context API, Redux).
+* **Styling:** HTML5, CSS3, Responsive Design.
+* **Integration:** Consumo de APIs REST e integração total com ecossistema .NET.
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### Desenvolvimento Back-end (.NET)
-- Desenvolvimento de APIs REST com **ASP.NET Core**
-- Criação de aplicações em **C#**
-- Implementação de regras de negócio
-- Arquitetura em camadas (Controllers, Services, Repositories)
-- Integração com bancos de dados relacionais
-- Aplicação de boas práticas e padrões de projeto
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+###  Currently Focusing On
+*  Aperfeiçoamento em Microserviços com .NET.
+*  Arquitetura de Software e Padrões de Integração.
+*  Performance avançada no React.
 
 ---
 
-### Desenvolvimento Front-end
-- HTML5 e CSS3
-- **React**
-- JavaScript e TypeScript aplicados à lógica de interface
+###  GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=radical"/>
+</div>
+
+---
+
+###  Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-56aba5181/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
+
+---
+> "In a world full of technology, those who don't learn to program will be programmed." — **Attekita**- JavaScript e TypeScript aplicados à lógica de interface
 - Consumo de APIs REST
 - Integração com back-end .NET
 - Criação de interfaces funcionais e responsivas
