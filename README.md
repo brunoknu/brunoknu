@@ -1,30 +1,29 @@
 # Matheus
 
-### Cientista da Computação | Desenvolvedor Backend (.NET / C#)
+### Cientista da Computação | Desenvolvedor Backend em Formação (.NET / C#)
 
-Bacharel em Ciência da Computação focado no desenvolvimento de sistemas robustos e escaláveis. Especialista no ecossistema .NET, com sólida experiência na construção de APIs de alta performance e aplicação de padrões de arquitetura modernos para a resolução de problemas complexos.
+Bacharel em Ciência da Computação dedicado ao domínio do ecossistema .NET. Atualmente focado em consolidar fundamentos de programação orientada a objetos, estrutura de dados e arquitetura de sistemas utilizando C#.
 
 ---
 
-### Competências Principais: Desenvolvimento Backend
+### Competências em Desenvolvimento: Backend
 
-**Stack Principal**
+**Linguagens e Frameworks**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Engenharia de Software e Arquitetura**
-* **Arquitetura:** Implementação de arquitetura em camadas (Controllers, Services, Repositories).
-* **APIs:** Desenvolvimento de APIs RESTful seguras e documentadas com ASP.NET Core.
-* **Padrões:** Aplicação de boas práticas (SOLID, Clean Code) e Design Patterns.
-* **Banco de Dados:** Modelagem de dados, escrita e otimização de queries SQL e integração com .NET.
-* **Ambiente:** Experiência em ambientes Windows e Linux, organização de repositórios e documentação técnica.
+**Tópicos de Estudo e Aplicação**
+* **Desenvolvimento de APIs:** Construção de Web APIs RESTful com ASP.NET Core.
+* **Lógica e Arquitetura:** Implementação de regras de negócio com C# seguindo padrões de camadas (Controllers, Services, Repositories).
+* **Persistência de Dados:** Integração com bancos de dados relacionais e escrita de consultas SQL.
+* **Qualidade de Software:** Aplicação de boas práticas, SOLID e padrões de projeto para código limpo.
+* **Versionamento:** Controle de versão e organização de repositórios com Git.
 
 ---
 
-### Competências de Apoio: Frontend
-*Desenvolvimento de interfaces funcionais para suporte e integração full stack.*
+### Competências Complementares: Frontend
+*Suporte ao desenvolvimento Full Stack e integração de interfaces.*
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,20 +31,27 @@ Bacharel em Ciência da Computação focado no desenvolvimento de sistemas robus
 
 ---
 
-### Estudos Atuais
-* Microserviços e Mensageria com .NET.
-* Arquitetura de Software Avançada.
-* Integração com serviços de Cloud.
+### Objetivos Atuais
+* Aprofundamento em ASP.NET Core e Entity Framework.
+* Modelagem de dados e otimização de bancos SQL.
+* Desenvolvimento de projetos Full Stack integrando .NET e React.
 
 ---
 
-### Contacto Profissional
+### Estatísticas de Estudo
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+</div>
+
+---
+
+### Contato Profissional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-56aba5181/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
 
 ---
-> "Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado." — Attekita
----
+> "Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado." — Attekita---
 > "In a world full of technology, those who don't learn to program will be programmed." — **Attekita**- JavaScript e TypeScript aplicados à lógica de interface
 - Consumo de APIs REST
 - Integração com back-end .NET
