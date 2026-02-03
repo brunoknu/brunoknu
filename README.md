@@ -1,55 +1,58 @@
-# Hi, I'm Matheus!
+# Matheus
 
-### Computer Scientist | Full Stack Developer (.NET & React)
+### Cientista da Computação | Desenvolvedor Backend (.NET / C#)
 
-Graduado em Ciência da Computação, focado em construir soluções escaláveis e performáticas. Especialista no ecossistema **.NET** para o back-end e **React** para o front-end, unindo a robustez da arquitetura de software com interfaces modernas.
+Bacharel em Ciência da Computação focado no desenvolvimento de sistemas robustos e escaláveis. Especialista no ecossistema .NET, com sólida experiência na construção de APIs de alta performance e aplicação de padrões de arquitetura modernos para a resolução de problemas complexos.
 
 ---
 
-###  Technical Skills
+### Competências Principais: Desenvolvimento Backend
 
-**Languages & Core Stack**
+**Stack Principal**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Engenharia de Software e Arquitetura**
+* **Arquitetura:** Implementação de arquitetura em camadas (Controllers, Services, Repositories).
+* **APIs:** Desenvolvimento de APIs RESTful seguras e documentadas com ASP.NET Core.
+* **Padrões:** Aplicação de boas práticas (SOLID, Clean Code) e Design Patterns.
+* **Banco de Dados:** Modelagem de dados, escrita e otimização de queries SQL e integração com .NET.
+* **Ambiente:** Experiência em ambientes Windows e Linux, organização de repositórios e documentação técnica.
+
+---
+
+### Competências de Apoio: Frontend
+*Desenvolvimento de interfaces funcionais para suporte e integração full stack.*
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Back-End Development**
-* **Frameworks:** ASP.NET Core & Web APIs.
-* **Architecture:** Camadas (Controllers, Services, Repositories), Clean Code e Design Patterns.
-* **Database:** Modelagem, SQL Server e otimização de consultas.
-
-**Front-End Development**
-* **Library:** React.js (Hooks, Context API, Redux).
-* **Styling:** HTML5, CSS3, Responsive Design.
-* **Integration:** Consumo de APIs REST e integração total com ecossistema .NET.
-
-**DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-###  Currently Focusing On
-*  Aperfeiçoamento em Microserviços com .NET.
-*  Arquitetura de Software e Padrões de Integração.
-*  Performance avançada no React.
+### Estudos Atuais
+* Microserviços e Mensageria com .NET.
+* Arquitetura de Software Avançada.
+* Integração com serviços de Cloud.
 
 ---
 
-###  GitHub Stats
+### Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
 </div>
 
 ---
 
-###  Connect with me
+### Contacto Profissional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-56aba5181/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
+
+---
+> "Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado." — Attekita[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
 
 ---
 > "In a world full of technology, those who don't learn to program will be programmed." — **Attekita**- JavaScript e TypeScript aplicados à lógica de interface
