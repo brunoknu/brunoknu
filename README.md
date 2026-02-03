@@ -39,13 +39,20 @@ Bacharel em Ciência da Computação focado no desenvolvimento de sistemas robus
 
 ---
 
+### Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+</div>
+
+---
+
 ### Contacto Profissional
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-56aba5181/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
 
 ---
-> "Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado." — Attekita[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoworkn@gmail.com)
-
+> "Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado." — Attekita
 ---
 > "In a world full of technology, those who don't learn to program will be programmed." — **Attekita**- JavaScript e TypeScript aplicados à lógica de interface
 - Consumo de APIs REST
