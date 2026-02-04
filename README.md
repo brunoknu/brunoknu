@@ -1,8 +1,8 @@
 # Matheus
 
-### Bacharel em Ciência da Computação | Desenvolvedor Backend (.NET / C#)
+### Bacharel em Ciência da Computação | Desenvolvedor Full Stack (.NET / React)
 
-Profissional com sólida base acadêmica em Ciência da Computação, focado no desenvolvimento de sistemas robustos utilizando o ecossistema .NET. Experiência técnica centrada na resolução de problemas complexos, aplicação de padrões de projeto e escrita de código limpo.
+Profissional com sólida base acadêmica em Ciência da Computação, focado no desenvolvimento de aplicações completas e escaláveis. Experiência técnica centrada na integração entre interfaces dinâmicas e backends robustos, aplicando padrões de projeto e escrita de código limpo em todo o ciclo de desenvolvimento.
 
 ---
 
