@@ -1,45 +1,46 @@
-# Matheus
+# Olá, eu sou o Matheus 👋
 
-### Bacharel em Ciência da Computação | Desenvolvedor Full Stack (.NET / React)
-
-Profissional com sólida base acadêmica em Ciência da Computação, focado no desenvolvimento de aplicações completas e escaláveis. Experiência técnica centrada na integração entre interfaces dinâmicas e backends robustos, aplicando padrões de projeto e escrita de código limpo em todo o ciclo de desenvolvimento.
-
----
-
-### Competências Técnicas
-
-**Backend**
-* **Linguagens:** C# (Fundamentos e Programação Orientada a Objetos).
-* **Frameworks:** .NET 10 / ASP.NET Core.
-* **Arquitetura:** Conhecimentos em arquitetura em camadas e princípios SOLID.
-* **Persistência:** SQL Server e modelagem de dados relacionais.
-
-**Frontend e Ferramentas**
-* **Tecnologias:** React, TypeScript e Tailwind CSS.
-* **Versionamento:** Git (Gestão de repositórios e workflow profissional).
-* **Documentação:** Documentação técnica de APIs e fluxos de sistema.
+🎓 Bacharel em Ciência da Computação  
+💻 Desenvolvedor Full Stack  
+📚 Atualmente estudando Java  
 
 ---
 
-### Objetivos e Aprendizado Contínuo
-Desenvolvimento focado em:
-* Integração de APIs RESTful com Entity Framework Core.
-* Implementação de Clean Architecture.
-* Otimização de performance em consultas de banco de dados.
+## 🚀 Sobre mim
+
+Desenvolvedor focado na construção de aplicações web completas, integrando frontend, backend e banco de dados.
+
+Tenho interesse em arquitetura de software, boas práticas de desenvolvimento e organização de código. Atualmente aprofundando meus estudos em Java com foco em APIs REST e arquitetura limpa.
 
 ---
 
-### Contato
-* **LinkedIn:** [linkedin.com/in/bruno-oliveira-56aba5181/](https://www.linkedin.com/in/bruno-oliveira-56aba5181/)
-* **E-mail:** brunoworkn@gmail.com- Integração entre front-end, back-end e banco de dados
-- Estudos contínuos em:
-  - C#
-  - .NET / ASP.NET Core
-  - Arquitetura de software
+## 🛠 Tecnologias e Ferramentas
+
+### Backend
+- Java
+- Programação Orientada a Objetos
+- APIs REST
+- Arquitetura em camadas
+- SQL e modelagem relacional
+
+### Frontend
+- React
+- Tailwind CSS
+
+### Ferramentas
+- Git
+- Documentação técnica de APIs
 
 ---
 
-## Contato Profissional
+## 📚 Em aprendizado
+- Clean Architecture
+- Padrões de projeto
+- Otimização de consultas e performance
 
-LinkedIn: https://www.linkedin.com/in/bruno-oliveira-56aba5181/  
-E-mail: brunoworkn@gmail.com
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/bruno-oliveira-56aba5181/
+- E-mail: brunoworkn@gmail.com
