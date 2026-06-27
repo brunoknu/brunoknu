@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus 👋
+# Olá, eu sou o Bruno 👋
 
 🎓 Bacharel em Ciência da Computação  
 💻 Desenvolvedor Full Stack  
